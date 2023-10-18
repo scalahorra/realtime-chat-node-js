@@ -1,5 +1,16 @@
 # realtime-chat-node-js
 
+## Funcionalidad
+Esto es un proyecto para ver el funcionamiento del sistema de websocket.  
+El ejercicio es muy sencillo. Consiste en un chat en el que pones mensajes y se tiene que leer y actualizaren todos los sitios donde se esté ejecutando a la vez.
+
+## Instalación
+```
+$ git clone https://github.com/scalahorra/realtime-chat-node-js.git
+$ npm install
+$ npm run dev
+```
+
 ## Dependencias
 
 ### Express
